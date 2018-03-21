@@ -1,0 +1,17 @@
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\Debug\audatex.br.axpedidopublisher.domain.model.dll
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\Debug\audatex.br.axpedidopublisher.domain.model.pdb
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\Debug\EntityFramework.dll
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\Debug\EntityFramework.xml
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\obj\Debug\audatex.br.axpedidopublisher.domain.model.dll
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\obj\Debug\audatex.br.axpedidopublisher.domain.model.pdb
+C:\IVAIR\AxPedidoPublisher\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\Debug\audatex.br.axpedidopublisher.domain.model.dll
+C:\IVAIR\AxPedidoPublisher\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\Debug\audatex.br.axpedidopublisher.domain.model.pdb
+C:\IVAIR\AxPedidoPublisher\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\Debug\EntityFramework.dll
+C:\IVAIR\AxPedidoPublisher\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\Debug\EntityFramework.SqlServer.dll
+C:\IVAIR\AxPedidoPublisher\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\Debug\EntityFramework.xml
+C:\IVAIR\AxPedidoPublisher\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\Debug\EntityFramework.SqlServer.xml
+C:\IVAIR\AxPedidoPublisher\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\obj\Debug\audatex.br.axpedidopublisher.domain.model.csprojResolveAssemblyReference.cache
+C:\IVAIR\AxPedidoPublisher\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\obj\Debug\audatex.br.axpedidopublisher.domain.model.dll
+C:\IVAIR\AxPedidoPublisher\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\obj\Debug\audatex.br.axpedidopublisher.domain.model.pdb

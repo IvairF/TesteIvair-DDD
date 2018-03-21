@@ -1,0 +1,9 @@
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\x86\Release\audatex.br.axpedidopublisher.domain.model.dll
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\x86\Release\audatex.br.axpedidopublisher.domain.model.pdb
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\x86\Release\EntityFramework.dll
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\x86\Release\EntityFramework.SqlServer.dll
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\x86\Release\EntityFramework.xml
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\bin\x86\Release\EntityFramework.SqlServer.xml
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\obj\x86\Release\audatex.br.axpedidopublisher.domain.model.dll
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\obj\x86\Release\audatex.br.axpedidopublisher.domain.model.pdb
+C:\TFS\AxPedidoPublisher\Branch\Develop_Sprint1_Homologacao\Domain\audatex.br.axpedidopublisher.domain.model\obj\x86\Release\audatex.br.axpedidopublisher.domain.model.csprojResolveAssemblyReference.cache

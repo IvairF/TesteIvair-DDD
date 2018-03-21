@@ -1,0 +1,16 @@
+C:\IVAIR\TesteIvair\Domain\audatex.br.axpedidopublisher.domain.model\bin\x86\Debug\audatex.br.axpedidopublisher.domain.model.dll
+C:\IVAIR\TesteIvair\Domain\audatex.br.axpedidopublisher.domain.model\bin\x86\Debug\audatex.br.axpedidopublisher.domain.model.pdb
+C:\IVAIR\TesteIvair\Domain\audatex.br.axpedidopublisher.domain.model\bin\x86\Debug\EntityFramework.dll
+C:\IVAIR\TesteIvair\Domain\audatex.br.axpedidopublisher.domain.model\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\IVAIR\TesteIvair\Domain\audatex.br.axpedidopublisher.domain.model\bin\x86\Debug\EntityFramework.xml
+C:\IVAIR\TesteIvair\Domain\audatex.br.axpedidopublisher.domain.model\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\IVAIR\TesteIvair\Domain\audatex.br.axpedidopublisher.domain.model\obj\x86\Debug\audatex.br.axpedidopublisher.domain.model.dll
+C:\IVAIR\TesteIvair\Domain\audatex.br.axpedidopublisher.domain.model\obj\x86\Debug\audatex.br.axpedidopublisher.domain.model.pdb
+C:\IVAIR\TesteIvair\Domain\testeIvair.domain.model\bin\x86\Debug\audatex.br.axpedidopublisher.domain.model.dll
+C:\IVAIR\TesteIvair\Domain\testeIvair.domain.model\bin\x86\Debug\audatex.br.axpedidopublisher.domain.model.pdb
+C:\IVAIR\TesteIvair\Domain\testeIvair.domain.model\bin\x86\Debug\EntityFramework.dll
+C:\IVAIR\TesteIvair\Domain\testeIvair.domain.model\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\IVAIR\TesteIvair\Domain\testeIvair.domain.model\bin\x86\Debug\EntityFramework.xml
+C:\IVAIR\TesteIvair\Domain\testeIvair.domain.model\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\IVAIR\TesteIvair\Domain\testeIvair.domain.model\obj\x86\Debug\audatex.br.axpedidopublisher.domain.model.dll
+C:\IVAIR\TesteIvair\Domain\testeIvair.domain.model\obj\x86\Debug\audatex.br.axpedidopublisher.domain.model.pdb
